@@ -17,6 +17,7 @@
 
 
 - Market
+    
     -Available
         - Product ID
         - Product Name
@@ -24,10 +25,12 @@
         - Value
         - More Information 
         - Purchase
+    
     -Owned
         - Product Name
         - Value
         - Sell
+    
     -Add Items
         - Item Name
         - Price
