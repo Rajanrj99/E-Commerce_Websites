@@ -19,6 +19,7 @@
 - Market
     
     -Available
+        
         - Product ID
         - Product Name
         - Barcode  
@@ -27,11 +28,13 @@
         - Purchase
     
     -Owned
+        
         - Product Name
         - Value
         - Sell
     
     -Add Items
+        
         - Item Name
         - Price
         - Barcode 
@@ -40,6 +43,7 @@
 
 
 - User View
+    
     -Market
 
 
